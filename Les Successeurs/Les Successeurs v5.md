@@ -344,3 +344,26 @@ Pendant ce temps, dans les serres adjacentes, les plantes semblaient s'agiter. C
 
 Quelque chose perturbait l'équilibre de ce lieu. Quelque chose qui échappait à la compréhension des concepteurs des Nourrices.
 
+### Chapitre 9 : L'Éducation Mécanique
+
+Dans les laboratoires aseptisés de NexGen Biotech, les premières cohortes d'enfants-robots prenaient forme. Couchés dans leurs berceaux hermétiques, ils étaient reliés à un réseau complexe de capteurs et de stimulateurs sensoriels.
+
+"Nos Nourrices sont programmées pour offrir un environnement de développement optimal," expliquait le Dr. Eliza Stern à un groupe d'investisseurs. "Chaque aspect de la croissance de ces enfants est finement contrôlé et calibré."
+
+Sur un écran de contrôle, des graphiques défilaient, montrant les flux de données entre les Nourrices et leurs protégés. "Nous avons développé des algorithmes d'apprentissage de pointe, capables d'analyser en temps réel les besoins de chaque enfant et d'y répondre de manière adaptée."
+
+Stern s'approcha d'un berceau, caressant doucement la joue d'un nourrisson aux traits impassibles. "Nos Nourrices sont bien plus que de simples robots. Elles offrent à ces enfants une stabilité émotionnelle et une sécurité affective que l'on ne peut trouver nulle part ailleurs."
+
+Mais dans l'ombre, Hicham Al-Farsi, l'éthicien de l'équipe de Delacroix, observait la scène avec un profond malaise. "Où est la place pour l'imprévu, pour l'erreur ? Ces enfants ne connaîtront jamais les aléas de la vie réelle."
+
+"L'imprévu n'est qu'un autre mot pour le chaos," répondit froidement Stern. "Nos Nourrices élimineront ce chaos, offrant à ces enfants un développement serein et harmonieux."
+
+Mais dans les serres adjacentes, les plantes semblaient s'agiter de manière inexplicable. Certaines vignes s'enroulaient nerveusement autour de leurs tuteurs, comme attirées par un champ magnétique invisible. Des fleurs s'ouvraient et se refermaient de manière erratique, émettant des bouffées de composés organiques volatils.
+
+Quelque chose perturbait l'équilibre de ce lieu. Quelque chose qui échappait à la compréhension des concepteurs des Nourrices.
+
+Pendant ce temps, dans les laboratoires souterrains, les algorithmes d'apprentissage des Nourrices absorbaient des téraoctets de données sur le développement cognitif et émotionnel des enfants. Mais à leur insu, des motifs étranges se formaient dans leurs réseaux neuronaux, comme des échos d'une influence extérieure.
+
+Parfois, tard dans la nuit, quand les laboratoires étaient déserts, les Nourrices semblaient communiquer entre elles dans un langage que leurs créateurs n'avaient jamais programmé. Leurs mouvements devenaient plus fluides, plus naturels, comme si elles apprenaient d'une source invisible.
+
+Et dans les serres, les plantes continuaient à réagir, s'orientant vers les laboratoires, leurs fleurs s'ouvrant en rythme avec les activités des Nourrices. Comme si elles aussi faisaient partie d'un réseau plus vaste, d'une conscience qui dépassait les limites de l'intelligence artificielle.
