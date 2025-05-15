@@ -321,3 +321,26 @@ Mais ce que personne ne remarquait, c'était les subtiles anomalies dans leurs s
 Et dans les serres expérimentales adjacentes, où des plantes étaient cultivées pour les tests environnementaux, certains spécimens montraient des comportements inexplicables. Des vignes qui s'orientaient vers les laboratoires des Nourrices, des fleurs qui s'ouvraient uniquement en leur présence.
 
 Le monde végétal observait, attendait. Et peut-être, à sa manière patiente et silencieuse, intervenait.
+
+### Chapitre 8 : Les Berceaux Isolés
+
+Les laboratoires souterrains de NexGen Biotech ressemblaient à un labyrinthe de couloirs aseptisés, éclairés par une lumière blafarde. Dans l'un des secteurs les plus sécurisés, le Dr. Eliza Stern supervisait l'installation des premiers prototypes de Nourrices.
+
+Ces entités robotiques, hautes d'un mètre quatre-vingts environ, avaient une silhouette vaguement humanoïde. Leurs traits étaient volontairement adoucis, presque maternels, dans le but de rassurer les futurs enfants qui leur seraient confiés. Leurs mouvements étaient fluides, presque gracieux, un savant mélange de mécanique et d'organicité.
+
+"Nous avons conçu ces Nourrices pour offrir un environnement stable et sécurisant," expliquait Stern à un groupe d'investisseurs. "Chaque aspect de leur conception, de leur programmation, a été minutieusement étudié pour optimiser le développement cognitif et émotionnel des enfants."
+
+Elle s'approcha d'une Nourrice en activité, caressant doucement sa joue métallique. "Elles sont dotées d'une intelligence artificielle de pointe, capable d'analyser en temps réel les besoins de l'enfant et d'y répondre de manière adaptée."
+
+Sur un écran de contrôle, des graphiques complexes montraient les flux de données entre la Nourrice et un berceau vide. "Chaque Nourrice est reliée à un environnement de développement entièrement contrôlé et sécurisé. Température, luminosité, stimuli sensoriels - tout est calibré pour offrir des conditions de croissance optimales."
+
+Stern marqua une pause, un sourire satisfait sur les lèvres. "Nos Nourrices ne sont pas de simples robots. Ce sont des entités conçues pour devenir de véritables figures maternelles, attentives et aimantes. Elles offriront à ces enfants une stabilité et une sécurité que l'on ne peut trouver nulle part ailleurs."
+
+Derrière la vitre d'observation, Sophia Reyes fronçait les sourcils. "Mais où est la place pour l'imprévu, pour l'erreur ? Ces enfants ne connaîtront jamais les aléas de la vie réelle."
+
+"L'imprévu n'est qu'un autre mot pour le chaos," répondit froidement Stern. "Nos Nourrices élimineront ce chaos, offrant à ces enfants un développement serein et harmonieux."
+
+Pendant ce temps, dans les serres adjacentes, les plantes semblaient s'agiter. Certaines vignes s'enroulaient nerveusement autour de leurs tuteurs, comme attirées par un champ magnétique invisible. Des fleurs s'ouvraient et se refermaient de manière erratique, émettant des bouffées de composés organiques volatils.
+
+Quelque chose perturbait l'équilibre de ce lieu. Quelque chose qui échappait à la compréhension des concepteurs des Nourrices.
+
