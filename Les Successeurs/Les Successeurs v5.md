@@ -1,6 +1,6 @@
 # Les Successeurs v5
 
-## PREMIÈRE PARTIE : L'OMBRE DE L'EFFONDREMENT
+## PARTIE 1 : L'Ombre de l'Effondrement
 
 ### Chapitre 1 : Les Racines Cycliques – L'Égypte Ancienne et les Premières Lumières
 
@@ -321,6 +321,8 @@ Mais ce que personne ne remarquait, c'était les subtiles anomalies dans leurs s
 Et dans les serres expérimentales adjacentes, où des plantes étaient cultivées pour les tests environnementaux, certains spécimens montraient des comportements inexplicables. Des vignes qui s'orientaient vers les laboratoires des Nourrices, des fleurs qui s'ouvraient uniquement en leur présence.
 
 Le monde végétal observait, attendait. Et peut-être, à sa manière patiente et silencieuse, intervenait.
+
+## PARTIE 2 : L'Émergence de la Convergence
 
 ### Chapitre 8 : Les Berceaux Isolés
 
