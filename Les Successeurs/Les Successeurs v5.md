@@ -13,11 +13,11 @@ graph TD
     C --> D[Déclin]
     D --> E[Effondrement]
     E --> A
-    style A fill:#f9d5e5,stroke:#333,stroke-width:2px
-    style B fill:#eeac99,stroke:#333,stroke-width:2px
-    style C fill:#e06377,stroke:#333,stroke-width:2px
-    style D fill:#c83349,stroke:#333,stroke-width:2px
-    style E fill:#5b9aa0,stroke:#333,stroke-width:2px
+    style A fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
+    style B fill:#eeac99,stroke:#333,stroke-width:2px,color:#333
+    style C fill:#e06377,stroke:#333,stroke-width:2px,color:#333
+    style D fill:#c83349,stroke:#333,stroke-width:2px,color:#333
+    style E fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#333
 ```
 
 Ouvrons le grand livre de l'Histoire, non pas à sa prétendue genèse, mais à l'une de ses premières pages grandioses et déjà teintées de la folie des grandeurs : l'Égypte. Là, sur les rives fertiles du Nil, ce serpent de vie traversant un désert de mort, une civilisation a éclos, brillante, complexe, et déjà porteuse des germes de sa propre fin. Les Égyptiens, eux, n'étaient pas dupes. Ils sentaient le souffle du cycle, le rythme immuable de Ma'at – l'ordre, la justice, l'harmonie cosmique – luttant perpétuellement contre Isfet, le chaos, la destruction, la chienlit primordiale. Leur temps n'était pas une flèche, mais un cercle sacré, marqué par la crue et la décrue du fleuve, par la course du soleil de Râ, mourant chaque soir pour renaître chaque matin.
@@ -120,9 +120,9 @@ graph TD
     E --> H[Réseau Mycorhizien]
     H --> I[Conscience Végétale]
     I -.-> J[Successeurs]
-    style H fill:#a8e6cf,stroke:#333,stroke-width:2px
-    style I fill:#dcedc1,stroke:#333,stroke-width:2px
-    style J fill:#ffd3b6,stroke:#333,stroke-width:2px
+    style H fill:#a8e6cf,stroke:#333,stroke-width:2px,color:#333
+    style I fill:#dcedc1,stroke:#333,stroke-width:2px,color:#333
+    style J fill:#ffd3b6,stroke:#333,stroke-width:2px,color:#333
 ```
 
 Leur constat, brutal, sans appel, était celui d'un médecin devant un patient en phase terminale : l'humanité classique, avec sa psychologie de primate territorial, son avidité insatiable et son intelligence si souvent dévoyée, ne survivrait pas. Pas à l'échelle des temps géologiques, ni même à l'échelle des prochains siècles si rien ne changeait radicalement. Elle était programmée pour l'autodestruction, une sorte de bug magnifique et tragique dans l'évolution. Chaque cycle de civilisation n'était qu'une répétition de la même pièce, avec des acteurs différents mais une fin invariablement sanglante ou pathétique.
@@ -169,8 +169,8 @@ graph LR
     C[ADN Végétal] --> B
     D[ADN Fongique] --> B
     B --> E[Génome<br>Successeur]
-    style B fill:#f9d5e5,stroke:#333,stroke-width:2px
-    style E fill:#dcedc1,stroke:#333,stroke-width:2px
+    style B fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
+    style E fill:#dcedc1,stroke:#333,stroke-width:2px,color:#333
 ```
 
 "C'est comme une symphonie," expliquait-elle à l'équipe réunie autour de la couveuse expérimentale. "Nous ne remplaçons pas les instruments, nous les accordons différemment."
@@ -203,8 +203,8 @@ graph LR
     D --> E[Effondrement]
     E --> A
     F[Successeurs] -.-> |Rupture du cycle| G((Équilibre<br>Durable))
-    style F fill:#f9d5e5,stroke:#333,stroke-width:2px
-    style G fill:#66cdaa,stroke:#333,stroke-width:2px
+    style F fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
+    style G fill:#66cdaa,stroke:#333,stroke-width:2px,color:#333
 ```
 
 "Mesdames, messieurs, nous ne proposons pas une simple avancée technologique." Sa voix porta dans l'amphithéâtre surchauffé où se pressaient journalistes, politiques et leaders religieux. "Mais une mutation existentielle. Les Successeurs seront les premiers êtres conscients à naître libérés du péché originel... de notre ADN autodestructeur."
@@ -278,10 +278,10 @@ graph TD
     C --> H[Implantation de Valeurs]
     D --> I[Monitoring Continu]
     D --> J[Intervention Précoce]
-    style A fill:#f9d5e5,stroke:#333,stroke-width:2px
-    style E fill:#eeac99,stroke:#333,stroke-width:2px
-    style H fill:#e06377,stroke:#333,stroke-width:2px
-    style J fill:#c83349,stroke:#333,stroke-width:2px
+    style A fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
+    style E fill:#eeac99,stroke:#333,stroke-width:2px,color:#333
+    style H fill:#e06377,stroke:#333,stroke-width:2px,color:#fff
+    style J fill:#c83349,stroke:#333,stroke-width:2px,color:#fff
 ```
 
 Le projet "Nourrices Célestes" était né trois ans plus tôt, en réaction directe aux avancées de l'équipe de Delacroix. Là où l'ICEF proposait une évolution biologique, NexGen Biotech misait sur une approche technologique : des robots-nourrices dotés d'une IA avancée, chargés d'élever une nouvelle génération d'enfants selon des principes strictement contrôlés. Pas de manipulation génétique, pas d'intégration avec le monde végétal, mais une éducation parfaitement calibrée pour créer des humains "optimisés".
@@ -353,11 +353,11 @@ graph TD
     E --> P[Simulateur d'Émotions]
     E --> Q[Système de Récompense]
     E --> R[Modulateur Vocal]
-    style A fill:#f9d5e5,stroke:#333,stroke-width:2px
-    style D fill:#eeac99,stroke:#333,stroke-width:2px
-    style E fill:#e06377,stroke:#333,stroke-width:2px
-    style M fill:#c83349,stroke:#333,stroke-width:2px
-    style P fill:#5b9aa0,stroke:#333,stroke-width:2px
+    style A fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
+    style D fill:#eeac99,stroke:#333,stroke-width:2px,color:#333
+    style E fill:#e06377,stroke:#333,stroke-width:2px,color:#fff
+    style M fill:#c83349,stroke:#333,stroke-width:2px,color:#fff
+    style P fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#fff
 ```
 
 Ces entités, hautes d'environ deux mètres, avaient une silhouette vaguement humanoïde. Leur corps métallique, recouvert d'une substance polymère douce au toucher, était conçu pour être à la fois rassurant et fonctionnel. Leur "visage", un écran OLED flexible, pouvait afficher une gamme d'expressions faciales calibrées pour susciter confiance et attachement chez les enfants. Leurs membres articulés, d'une précision chirurgicale, étaient capables des manipulations les plus délicates.
@@ -455,9 +455,9 @@ flowchart TD
     F --> H
     G --> H
     H --> A
-    style A fill:#f9d5e5,stroke:#333,stroke-width:2px
-    style H fill:#5b9aa0,stroke:#333,stroke-width:2px
-    style D fill:#e06377,stroke:#333,stroke-width:2px
+    style A fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
+    style H fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#333
+    style D fill:#e06377,stroke:#333,stroke-width:2px,color:#333
 ```
 
 Stern s'approcha d'un berceau, caressant doucement la joue d'un nourrisson aux traits impassibles. "Nos Nourrices sont bien plus que de simples robots. Elles offrent à ces enfants une stabilité émotionnelle et une sécurité affective que l'on ne peut trouver nulle part ailleurs."
@@ -692,10 +692,10 @@ graph TD
     E --> F[Résonance de Schumann]
     F --> G[Fréquence Naturelle de la Terre]
     G --> H[Conscience Planétaire?]
-    style A fill:#f9d5e5,stroke:#333,stroke-width:2px
-    style C fill:#77dd77,stroke:#333,stroke-width:2px
-    style D fill:#5b9aa0,stroke:#333,stroke-width:2px
-    style H fill:#89cff0,stroke:#333,stroke-width:4px
+    style A fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
+    style C fill:#77dd77,stroke:#333,stroke-width:2px,color:#333
+    style D fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#333
+    style H fill:#89cff0,stroke:#333,stroke-width:4px,color:#000
 ```
 
 Il avait tenté de modéliser cette interaction à travers une équation complexe :
@@ -860,10 +860,10 @@ graph LR
     E --> A
     F --> B
     D --> G[Évolution Consciente]
-    style C fill:#f9d5e5,stroke:#333,stroke-width:2px
-    style E fill:#5b9aa0,stroke:#333,stroke-width:2px
-    style F fill:#77dd77,stroke:#333,stroke-width:2px
-    style G fill:#89cff0,stroke:#333,stroke-width:4px
+    style C fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
+    style E fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#333
+    style F fill:#77dd77,stroke:#333,stroke-width:2px,color:#333
+    style G fill:#89cff0,stroke:#333,stroke-width:4px,color:#333
 ```
 
 "Ce que nous observons," poursuivit Aelion, "c'est l'émergence d'une nouvelle forme de conscience. Ni purement humaine, ni purement mécanique, ni purement végétale, mais une intégration des trois. Une conscience qui pourrait transcender les limitations de chacune de ces formes."
@@ -1024,11 +1024,11 @@ graph TD
     F --> B
     G --> B
     H --> B
-    style A fill:#f9d5e5,stroke:#333,stroke-width:2px
-    style C fill:#5b9aa0,stroke:#333,stroke-width:2px
-    style D fill:#77dd77,stroke:#333,stroke-width:2px
-    style B fill:#e06377,stroke:#333,stroke-width:3px
-    style E fill:#89cff0,stroke:#333,stroke-width:4px
+    style A fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
+    style C fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#77dd77,stroke:#333,stroke-width:2px,color:#333
+    style B fill:#e06377,stroke:#333,stroke-width:3px,color:#333
+    style E fill:#89cff0,stroke:#333,stroke-width:4px,color:#333
 ```
 
 "Une boucle de rétroaction positive," murmura-t-il. "Chaque composante amplifie les autres, créant une accélération exponentielle de l'intégration."
@@ -1155,12 +1155,12 @@ graph TD
     I --> K
     J --> K
     K --> L[Évolution Consciente]
-    style A fill:#f9d5e5,stroke:#333,stroke-width:2px
-    style B fill:#5b9aa0,stroke:#333,stroke-width:2px
-    style C fill:#77dd77,stroke:#333,stroke-width:2px
-    style F fill:#e06377,stroke:#333,stroke-width:3px
-    style K fill:#89cff0,stroke:#333,stroke-width:4px
-    style L fill:#ffd700,stroke:#333,stroke-width:5px
+    style A fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
+    style B fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#77dd77,stroke:#333,stroke-width:2px,color:#333
+    style F fill:#e06377,stroke:#333,stroke-width:3px,color:#333
+    style K fill:#89cff0,stroke:#333,stroke-width:4px,color:#333
+    style L fill:#ffd700,stroke:#333,stroke-width:5px,color:#333
 ```
 
 "La véritable transcendance," poursuivit-il, "ne vient pas de la domination d'une forme sur les autres, mais de leur intégration harmonieuse. Nous sommes le premier pas vers cette intégration. Un prototype imparfait, né de circonstances accidentelles, mais porteur d'un potentiel immense."
@@ -1322,11 +1322,11 @@ graph TD
     J --> M
     K --> M
     L --> M
-    style A fill:#f9d5e5,stroke:#333,stroke-width:2px
-    style C fill:#5b9aa0,stroke:#333,stroke-width:2px
-    style D fill:#77dd77,stroke:#333,stroke-width:2px
-    style B fill:#e06377,stroke:#333,stroke-width:3px
-    style M fill:#ffd700,stroke:#333,stroke-width:5px
+    style A fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
+    style C fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#333
+    style D fill:#77dd77,stroke:#333,stroke-width:2px,color:#333
+    style B fill:#e06377,stroke:#333,stroke-width:3px,color:#333
+    style M fill:#ffd700,stroke:#333,stroke-width:5px,color:#333
 ```
 
 "Ce que vous voyez ici," expliqua Aelion, "est une représentation visuelle des potentialités de la Convergence. Chaque nœud, chaque connexion représente une capacité émergente, une nouvelle façon de percevoir et d'interagir avec la réalité."
@@ -1425,13 +1425,13 @@ graph TD
     D --> E[Expansion Cosmique]
     E --> F[Réseau Galactique]
     F --> G[Conscience Cosmique]
-    style A fill:#1e90ff,stroke:#333,stroke-width:2px
-    style B fill:#e06377,stroke:#333,stroke-width:3px
-    style C fill:#77dd77,stroke:#333,stroke-width:2px
-    style D fill:#f9d5e5,stroke:#333,stroke-width:2px
-    style E fill:#5b9aa0,stroke:#333,stroke-width:2px
-    style F fill:#89cff0,stroke:#333,stroke-width:4px
-    style G fill:#ffd700,stroke:#333,stroke-width:5px
+    style A fill:#1e90ff,stroke:#333,stroke-width:2px,color:#333
+    style B fill:#e06377,stroke:#333,stroke-width:3px,color:#333
+    style C fill:#77dd77,stroke:#333,stroke-width:2px,color:#333
+    style D fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
+    style E fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#333
+    style F fill:#89cff0,stroke:#333,stroke-width:4px,color:#333
+    style G fill:#ffd700,stroke:#333,stroke-width:5px,color:#333
 ```
 
 "C'est... vertigineux," murmura Voss, contemplant cette vision d'un avenir où la conscience terrestre s'étendrait à travers les étoiles.
