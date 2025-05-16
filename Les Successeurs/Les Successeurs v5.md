@@ -280,8 +280,8 @@ graph TD
     D --> J[Intervention Précoce]
     style A fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
     style E fill:#eeac99,stroke:#333,stroke-width:2px,color:#333
-    style H fill:#e06377,stroke:#333,stroke-width:2px,color:#fff
-    style J fill:#c83349,stroke:#333,stroke-width:2px,color:#fff
+    style H fill:#e06377,stroke:#333,stroke-width:2px,color:#000
+    style J fill:#c83349,stroke:#333,stroke-width:2px,color:#fff,font-weight:bold
 ```
 
 Le projet "Nourrices Célestes" était né trois ans plus tôt, en réaction directe aux avancées de l'équipe de Delacroix. Là où l'ICEF proposait une évolution biologique, NexGen Biotech misait sur une approche technologique : des robots-nourrices dotés d'une IA avancée, chargés d'élever une nouvelle génération d'enfants selon des principes strictement contrôlés. Pas de manipulation génétique, pas d'intégration avec le monde végétal, mais une éducation parfaitement calibrée pour créer des humains "optimisés".
@@ -355,9 +355,9 @@ graph TD
     E --> R[Modulateur Vocal]
     style A fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
     style D fill:#eeac99,stroke:#333,stroke-width:2px,color:#333
-    style E fill:#e06377,stroke:#333,stroke-width:2px,color:#fff
-    style M fill:#c83349,stroke:#333,stroke-width:2px,color:#fff
-    style P fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#e06377,stroke:#333,stroke-width:2px,color:#000
+    style M fill:#c83349,stroke:#333,stroke-width:2px,color:#fff,font-weight:bold
+    style P fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#000
 ```
 
 Ces entités, hautes d'environ deux mètres, avaient une silhouette vaguement humanoïde. Leur corps métallique, recouvert d'une substance polymère douce au toucher, était conçu pour être à la fois rassurant et fonctionnel. Leur "visage", un écran OLED flexible, pouvait afficher une gamme d'expressions faciales calibrées pour susciter confiance et attachement chez les enfants. Leurs membres articulés, d'une précision chirurgicale, étaient capables des manipulations les plus délicates.
@@ -1025,7 +1025,7 @@ graph TD
     G --> B
     H --> B
     style A fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
-    style C fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#000
     style D fill:#77dd77,stroke:#333,stroke-width:2px,color:#333
     style B fill:#e06377,stroke:#333,stroke-width:3px,color:#333
     style E fill:#89cff0,stroke:#333,stroke-width:4px,color:#333
@@ -1156,7 +1156,7 @@ graph TD
     J --> K
     K --> L[Évolution Consciente]
     style A fill:#f9d5e5,stroke:#333,stroke-width:2px,color:#333
-    style B fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#5b9aa0,stroke:#333,stroke-width:2px,color:#000
     style C fill:#77dd77,stroke:#333,stroke-width:2px,color:#333
     style F fill:#e06377,stroke:#333,stroke-width:3px,color:#333
     style K fill:#89cff0,stroke:#333,stroke-width:4px,color:#333
